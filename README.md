@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Edwin, 16 years old from Malaysia
+- 👋 Hi, I’m Edwin, high school student from Malaysia.
 - 👀 I’m interested in AI and trying to pursuit technopreneurship
 - Languange: tensorflow, c++, python, flutter and the other language (scikitlearn, numpy, matplotlib, pandas)
 - 💞️ I’m looking to collaborate on any startup company to gain some experience
