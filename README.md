@@ -2,4 +2,4 @@
 - 👀 I’m interested in AI and trying to pursuit technopreneurship
 - Languange: tensorflow, c++, python, flutter and the other language (scikitlearn, numpy, matplotlib, pandas)
 - 💞️ I’m looking to collaborate on any startup company to gain some experience
-- 📫 How to reach me: you can contact me by my gmail(edwinting10151@gmail.com) or my discord (GoatSleepWithMe#2961)
+- 📫 How to reach me: you can contact me by my gmail(edwinting10151@gmail.com) or my discord (GoatSleepWithMe#1028)
